@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.bglogin{
+    background-color: rgb(111, 111, 218);
+    border-radius: 10px;
+    padding: 2rem;
+    width: auto;
+}
