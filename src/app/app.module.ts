@@ -7,13 +7,17 @@ import { LoginComponent } from './pages/login/login.component';
 import { DashboardComponent } from './pages/dashboard/dashboard.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatSidenavModule } from '@angular/material/sidenav';
+import { UserComponent } from './pages/user/user.component';
+import { ProductComponent } from './pages/product/product.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
     LoginComponent,
-    DashboardComponent
+    DashboardComponent,
+    UserComponent,
+    ProductComponent
   ],
   imports: [
     BrowserModule,
