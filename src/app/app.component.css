@@ -1,0 +1,14 @@
+mat-drawer{
+background-color: rgba(0, 0, 0, 0.55);
+width: 250px;
+}
+mat-drawer-container{
+    height: 100vh
+}
+.sidenav a{
+    display: flex;
+    text-decoration: none;
+    color: aliceblue;
+    margin: 1.5rem;
+}
+
